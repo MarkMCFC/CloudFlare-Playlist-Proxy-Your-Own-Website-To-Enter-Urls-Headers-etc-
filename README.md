@@ -5,7 +5,7 @@ https://10minutemail.com/<br><br>
 
 2, Sign up for free at Cloudflare using your 10 minute email address<br>
 https://dash.cloudflare.com<br>
-Verify the signup email! now you close 10 minute email<br><br>
+Verify the signup email! now you can close 10 minute email<br><br>
 
 3, On cloudflare look on the left menus for 'Compute Workers' Cick it<br>
 4, Start with Hello World!: Click 'Get Started'<br>
