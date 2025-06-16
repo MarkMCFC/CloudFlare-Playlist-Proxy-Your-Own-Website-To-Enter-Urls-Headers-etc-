@@ -28,7 +28,7 @@ After you have pasted the code click the DEPLOY BUTTON<br><br>
 
 Once it is deployed copy your url, you will see it under the deploy button, load the url into a browser<br><br>
 
-Visit https://forum.tfms.xyz for morebr>
+Visit https://forum.tfms.xyz for more<br><br>
 Tip: Header Names<br>
 referer<br>
 user-agent<br>
