@@ -17,7 +17,7 @@ Verify the signup email! now you can close 10 minute email<br><br>
 
 7, Look for (on the right side panel)<br>
 Welcome to Cloudflare Workers! This is your first worker<br>
-DELETE ALL the text you see so its blank<br><br>
+AND DELETE ALL the text you see so its blank<br><br>
 
 Copy All The Code from this url (load the url into a browser)<br>COPY ALL THE CODE LOTS OF IT<br>
 https://raw.githubusercontent.com/MarkMCFC/m3u-playlist-proxy/refs/heads/main/cloudflare/worker.js<br><br>
