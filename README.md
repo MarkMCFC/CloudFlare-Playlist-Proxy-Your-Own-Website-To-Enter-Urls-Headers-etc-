@@ -9,7 +9,7 @@ https://10minutemail.com/<br><br>
 https://dash.cloudflare.com<br>
 Verify the signup email! now you can close 10 minute email<br><br>
 
-3, On cloudflare look on the left menus for 'Compute Workers' Cick it<br>
+3, On cloudflare look on the left menus for 'Compute Workers' Click it<br>
 4, Start with Hello World!: Click 'Get Started'<br>
 5, Click Deploy<br><br>
 
