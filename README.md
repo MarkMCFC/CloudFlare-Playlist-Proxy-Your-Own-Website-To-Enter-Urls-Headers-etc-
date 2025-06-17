@@ -25,7 +25,7 @@ https://raw.githubusercontent.com/MarkMCFC/m3u-playlist-proxy/refs/heads/main/cl
 
 Paste the code into the empty text box on Cloudflare (Use control+v to paste)<br>
 
-After you have pasted the code click the DEPLOY BUTTON<br><br>
+After you have pasted the code click the DEPLOY BUTTON<br>
 
 Once it is deployed copy your url, you will see it under the deploy button, load the url into a browser<br>
 
