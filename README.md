@@ -33,4 +33,6 @@ Visit https://forum.tfms.xyz for more<br><br>
 Tip: Header Names<br>
 referer<br>
 user-agent<br>
-host<br>
+host<br><br>
+
+I Did not make this code and offer no support!
