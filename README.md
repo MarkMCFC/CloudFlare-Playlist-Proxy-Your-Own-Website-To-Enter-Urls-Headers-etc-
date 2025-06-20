@@ -35,4 +35,4 @@ referer<br>
 user-agent<br>
 host<br><br>
 
-I Did not make this code and offer no support! But a big thanks goes out to the creator whos name escapes me sorry.
+I Did not make this code and offer no support! But a big thanks goes out to the creator whos name escapes me sorry. All i have done is make the instructions easier to follow.
