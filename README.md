@@ -12,7 +12,7 @@ Verify the signup email! now you can close 10 minute email<br>
 3, On cloudflare look on the left menus for 'Compute Workers' Click it<br>
 4, Click Create<br>
 5, Start with Hello World!: Click 'Get Started'<br>
-6, Click Deploy<br>
+6, Click Deploy.... Wait 5 seconds<br>
 
 7, Click 'Edit Code' (Its at the top rightish)<br>
 
